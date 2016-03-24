@@ -7,9 +7,8 @@ Usando las biblioteca Swing y AWT
 C++:
 Usando SFML
 
-#Uso:
-
-Gol.jar/exe <Tamaño de tablero>
-Ejemplo:
-Gol.jar 50
-Gol.exe 25
+Uso:
+Gol.exe/jar tamaño  
+Ejemplo:  
+Gol.exe 50  
+Gol.jar 42
