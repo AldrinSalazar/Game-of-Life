@@ -18,3 +18,5 @@ Gol.exe/jar tamaño
 Ejemplo:  
 Gol.exe 50  
 Gol.jar 42
+
+ASalazar @ AlphaSigma.web.ve
